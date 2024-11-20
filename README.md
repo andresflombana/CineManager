@@ -1,7 +1,9 @@
-<p align="center">
+<p align="left">
     <img src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" alt="Logo Java">
 </p>
-
+<p align="right">
+    <img src="https://ibb.co/R4XztD8" alt="Logo Cine">
+</p>
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
