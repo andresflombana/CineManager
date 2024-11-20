@@ -9,15 +9,104 @@
 </p>
 
 # Proyecto
-
-**CineManager: Gestor de Cines**
+**CineManager: Gestor de Cines y Películas**
 
 # Descripción del Proyecto
+**CineManager** es una aplicación creada por y para amantes del cine. Los usuarios tendrán una experiencia informativa sobre los cines y películas en cartelera en la ciudad de Pasto. El propósito principal es mantener actualizada la información sobre cines en nuestra ciudad y proporcionar una plataforma para que los usuarios puedan tomar decisiones informadas sobre qué película ver basándose en las puntuaciones y detalles proporcionados.
 
-*CineManager es una aplicación creada por y para amantes del cine, los usuarios tendrán una experiencia informativa sobre los cines y peliculas en cartelera en la ciudad de Pasto. El propósito principal es mantener actualizada la información sobre cines en nuestra ciudad.*
+# Empezando
+Para obtener una copia de este proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba, siga las instrucciones a continuación.
 
- **El propósito principal es proporcionar una plataforma donde los usuarios puedan tomar decisiones informadas sobre cines de la ciudad y qué película ver basándose en las puntuaciones y detalles proporcionados.**
+# Requisitos previos
+Para ejecutar este programa, necesita tener el entorno de desarrollo compatible con Java **NetBeans** instalado.
+Necesita tener **Apache Tomcat** y **Maven** para depliegue web.
 
-## Autores
+# Ejecución
 
-* **Andrés Lombana y Sebastián Moreno** 
+1. Ingrese a su entorno de desarrollo Java NetBeans.
+2. Importe el proyecto.
+3. Compile y ejecute el programa.
+## NOTA:
+La interfaz principal del programa está dividida en dos secciones principales:
+
+### Cines:
+En esta sección, podrá ver una lista de los cines registrados en el sistema.
+Cada cine se muestra con su nombre, contacto y mapa de ubicación.
+
+### Películas:
+En esta sección, podrá ver una lista de las películas registradas en el sistema.
+Cada película muestra su información correspondiente.
+Si es administrador, puede editar o eliminar una película utilizando los botones correspondientes.
+
+Para acceder a los recursos de prueba ubíquese en:
+```
+CineManager\ARCHIVOS DE PRUEBA
+```
+
+Los datos relacionados con cines y películas (incluyendo imágenes y descripciones) se almacenan en archivos ubicados en:
+
+```
+CineManager\target\CineManagerApp-1.0\data
+```
+y
+```
+CineManager\target\CineManagerApp-1.0\portadas
+```
+
+# Para usar este programa de manera efectiva, el usuario puede seguir estos pasos:
+ **Ubique el menú de navegación**
+## Inicio:
+1. Navegue por toda la página informativa
+## Cines:
+1. En esta página encuentras lo relacionado a los cines de la ciudad y su información relevante.
+## Películas:
+1. En este apartado encuentras las películas registradas y su información relevante, como calificaciones y cines en los que se encuentran.
+## Login
+1. Si usted es administrador y conoce sus credenciales, inicie sesión para tener acceso a las siguientes opciones:
+
+### Registrar Usuarios:
+**Para registrar usuarios debe ingresar:**
+1. Nombre de Usuarios
+2. Nombre
+3. Tipo de Usuario (Administrador o Cliente)
+4. Email
+4. Número de identificación del usuario
+5. Imagen del Usuario
+**Para editar usuarios debe:**
+1. Mientras esté en la sección de registro de usuarios usted debe seleccionar el botón de *Editar* en el usuario que desee y posteriormente editar la información que requiera.
+2. Guarde los cambios
+**Para eliminar usuarios debe:**
+1. Mientras esté en la sección de registro de usuarios usted debe seleccionar el botón de *Eliminar* en el usuario que desee eliminar.
+
+### Registrar Películas:
+Para registrar películas debe ingresar:
+1. Número de identificación de la película
+2. Título de la película
+3. Descripción o sinopsis
+4. Director de la película
+5. Fecha de Estreno
+6. Calificación de la Critica
+7. Calificación de la Audiencia
+8. Portada de la película
+9. Cine o Cines en los que se presenta la película
+**Para editar películas debe:**
+1. Mientras esté en la sección de registro de películas usted debe seleccionar el botón de *Editar* en la película que desee y posteriormente editar la información que requiera.
+   *Posdata: Si se edita la película, la imagen debe ser sustituida si o si, ya sea a la misma o a otra por temas de almacenamiento*
+2. Guarde los cambios
+**Para eliminar películas debe:**
+1. Mientras esté en la sección de registro de películas usted debe seleccionar el botón de *Eliminar* en la película que desee eliminar.
+
+# Ejecutando las pruebas
+Este programa no cuenta con pruebas automatizadas. Todas las pruebas se realizan de manera interactiva dentro de la aplicación.
+
+# Despliegue (Deployment)
+Este programa es de uso local y no requiere despliegue en un sistema en vivo.
+
+# Construcción
+Este programa fue construido utilizando Java y Apache NetBeans, Tomcat y Maven para aplicaciones web con funcionalidades orientadas a objetos, persistencia de datos mediante archivos y distintos tipos de estructuras de datos.
+
+# Autores
+* Andrés Lombana y Sebastián Moreno
+
+# Licencia
+Todos los derechos protegidos por los autores mencionados anteriormente.
