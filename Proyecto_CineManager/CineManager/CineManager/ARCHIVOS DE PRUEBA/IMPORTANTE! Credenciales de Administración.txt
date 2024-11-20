@@ -1,0 +1,13 @@
+admin1@cinemanager.com
+admin1
+
+admin2@cinemanager.com
+admin2
+
+admin3@cinemanager.com
+admin3
+
+Credenciales Especiales para el profe Wilson:
+
+Correo: willcastillo@cinemanager.com
+Contraseña: willcastillo123
