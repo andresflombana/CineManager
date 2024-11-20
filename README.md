@@ -11,17 +11,17 @@
 # Proyecto
 **CineManager: Gestor de Cines y Películas**
 
-# Descripción del Proyecto
+## Descripción del Proyecto
 **CineManager** es una aplicación creada por y para amantes del cine. Los usuarios tendrán una experiencia informativa sobre los cines y películas en cartelera en la ciudad de Pasto. El propósito principal es mantener actualizada la información sobre cines en nuestra ciudad y proporcionar una plataforma para que los usuarios puedan tomar decisiones informadas sobre qué película ver basándose en las puntuaciones y detalles proporcionados.
 
-# Empezando
+## Empezando
 Para obtener una copia de este proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba, siga las instrucciones a continuación.
 
 # Requisitos previos
 Para ejecutar este programa, necesita tener el entorno de desarrollo compatible con Java **NetBeans** instalado.
 Necesita tener **Apache Tomcat** y **Maven** para depliegue web.
 
-# Ejecución
+## Ejecución
 
 1. Ingrese a su entorno de desarrollo Java NetBeans.
 2. Importe el proyecto.
@@ -94,19 +94,21 @@ Para registrar películas debe ingresar:
 
 **Para editar películas debe:**
 1. Mientras esté en la sección de registro de películas usted debe seleccionar el botón de *Editar* en la película que desee y posteriormente editar la información que requiera.
-   *Posdata: Si se edita la película, la imagen debe ser sustituida si o si, ya sea a la misma o a otra por temas de almacenamiento*
+
+*Posdata: Si se edita la película, la imagen debe ser sustituida si o si, ya sea a la misma o a otra por temas de almacenamiento*
+
 2. Guarde los cambios
 
 **Para eliminar películas debe:**
 1. Mientras esté en la sección de registro de películas usted debe seleccionar el botón de *Eliminar* en la película que desee eliminar.
 
-# Ejecutando las pruebas
+## Ejecutando las pruebas
 Este programa no cuenta con pruebas automatizadas. Todas las pruebas se realizan de manera interactiva dentro de la aplicación.
 
-# Despliegue (Deployment)
+## Despliegue (Deployment)
 Este programa es de uso local y no requiere despliegue en un sistema en vivo.
 
-# Construcción
+## Construcción
 Este programa fue construido utilizando Java y Apache NetBeans, Tomcat y Maven para aplicaciones web con funcionalidades orientadas a objetos, persistencia de datos mediante archivos y distintos tipos de estructuras de datos.
 
 # Autores
