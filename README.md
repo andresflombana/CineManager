@@ -27,7 +27,7 @@ Necesita tener **Apache Tomcat** y **Maven** para depliegue web.
 2. Importe el proyecto.
 3. Compile y ejecute el programa.
 ## NOTA:
-La interfaz principal del programa está dividida en dos secciones principales:
+La interfaz principal del programa está dividida en cuatro secciones principales:
 
 ### Cines:
 En esta sección, podrá ver una lista de los cines registrados en el sistema.
