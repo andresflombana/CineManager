@@ -12,7 +12,7 @@
 
 # Descripción del Proyecto
 
-*CineManager es una aplicación diseñada para estudios cinematográficos que permite gestionar eficientemente las salas de cine y las películas que se estrenan diariamente. La aplicación facilita la navegación y selección de películas por parte de los clientes, mostrando información detallada y puntuaciones de cada película.*
+*CineManager es una aplicación creada por y para amantes del cine, los usuarios tendrán una experiencia informativa sobre los cines y peliculas en cartelera en la ciudad de Pasto. El propósito principal es mantener actualizada la información sobre cines en nuestra ciudad.*
 
  **El propósito principal es proporcionar una plataforma donde los usuarios puedan tomar decisiones informadas sobre cines de la ciudad y qué película ver basándose en las puntuaciones y detalles proporcionados.**
 
