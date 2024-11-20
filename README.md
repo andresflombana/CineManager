@@ -72,9 +72,11 @@ CineManager\target\CineManagerApp-1.0\portadas
 4. Email
 4. Número de identificación del usuario
 5. Imagen del usuario
+
 **Para editar usuarios debe:**
 1. Mientras esté en la sección de registro de usuarios usted debe seleccionar el botón de *Editar* en el usuario que desee y posteriormente editar la información que requiera.
 2. Guarde los cambios
+
 **Para eliminar usuarios debe:**
 1. Mientras esté en la sección de registro de usuarios usted debe seleccionar el botón de *Eliminar* en el usuario que desee eliminar.
 
@@ -89,10 +91,12 @@ Para registrar películas debe ingresar:
 7. Calificación de la Audiencia
 8. Portada de la película
 9. Cine o Cines en los que se presenta la película
+
 **Para editar películas debe:**
 1. Mientras esté en la sección de registro de películas usted debe seleccionar el botón de *Editar* en la película que desee y posteriormente editar la información que requiera.
    *Posdata: Si se edita la película, la imagen debe ser sustituida si o si, ya sea a la misma o a otra por temas de almacenamiento*
 2. Guarde los cambios
+
 **Para eliminar películas debe:**
 1. Mientras esté en la sección de registro de películas usted debe seleccionar el botón de *Eliminar* en la película que desee eliminar.
 
