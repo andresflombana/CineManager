@@ -66,12 +66,12 @@ CineManager\target\CineManagerApp-1.0\portadas
 
 ### Registrar Usuarios:
 **Para registrar usuarios debe ingresar:**
-1. Nombre de Usuarios
+1. Nombre de usuario
 2. Nombre
-3. Tipo de Usuario (Administrador o Cliente)
+3. Tipo de usuario (Administrador o Cliente)
 4. Email
 4. Número de identificación del usuario
-5. Imagen del Usuario
+5. Imagen del usuario
 **Para editar usuarios debe:**
 1. Mientras esté en la sección de registro de usuarios usted debe seleccionar el botón de *Editar* en el usuario que desee y posteriormente editar la información que requiera.
 2. Guarde los cambios
